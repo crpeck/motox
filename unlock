@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Unlocking bootloader"
+sudo ~/bin/mfastboot oem unlock Y2FF3DULPC2RI4OMYUGT
